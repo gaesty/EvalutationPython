@@ -16,7 +16,7 @@
 #* total([1, 2, 3], [0])
 #* résultat [1, 2, 3] 
 
-# sites utilisés https://medium.com/@nawazmohtashim/converting-a-list-to-integer-in-python-exploring-methods-and-techniques-db527fcc583a et https://stackoverflow.com/questions/13905936/converting-integer-to-digit-list
+# sites utilisés https://medium.com/@nawazmohtashim/converting-a-list-to-integer-in-python-exploring-methods-and-techniques-db527fcc583a et https://stackoverflow.com/questions/13905936/converting-integer-to-digit-list et chatgpt pour corriger mes erreurs
 
 def additionListes(liste1 : list, liste2 : list) -> list:
     return [int(x) for x in str(int(''.join(map(str, liste1))) + int(''.join(map(str, liste2))))]
