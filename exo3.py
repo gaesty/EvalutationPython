@@ -20,11 +20,9 @@ class Exo:
             return 1
         if n < 0:
             return 1 / self.puissance(x, -n)
-
         # Récursion
         return x * self.puissance(x, n - 1) 
 
-# Exemples d'utilisation
 print(Exo().puissance(2, 3))   
 print(Exo().puissance(2, 1))   
 print(Exo().puissance(2, 0))   
