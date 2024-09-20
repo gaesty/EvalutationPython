@@ -1,3 +1,4 @@
+
 #! Exo 3 (noté sur 3 points)
 #? Écrire une class Python s'appelant Exo disposant d'une méthode appelée puissance implémentant la
 #? fonction pow(x,n)

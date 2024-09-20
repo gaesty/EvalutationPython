@@ -1,3 +1,4 @@
+
 #! Exo 1 (noté sur 3 points)
 #? Écrire un script Python permettant de trouver les groupes de 3 éléments dans une liste dont la somme est égal à 0
 #* exemple 1 :
