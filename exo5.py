@@ -24,7 +24,7 @@
 #! peut pas être "-" !!!
 #! J'ai gagné par forfait en 5 coups !!!
 
-# Documentation https://www.tutorialspoint.com/higher-lower-game-with-python pour une idée de la logique à mettre en place
+# Documentation https://www.tutorialspoint.com/higher-lower-game-with-python pour une idée de la logique à mettre en place et chatgpt pour corriger mes erreurs
 
 
 import random
