@@ -12,3 +12,4 @@ def calcul(liste : list)-> list:
     for i in liste:
         resultat = i
         if resultat == 0:
+            print("")
